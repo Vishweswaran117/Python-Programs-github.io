@@ -1,0 +1,6 @@
+What is API : Apllication Program interface
+it helps to take the needed data from the url.
+
+what is request and use of requests module :
+which helps to take the data from the specified url
+
